@@ -7,7 +7,7 @@
 
 - ⚡ Every day i try to get better this project <a href="https://madnolia.app" target="blank"><img align="center">Madnolia</a>
 
-- 📺 Sometimes i upload videos on Youtube [https://youtube.com/@madnasdk](https://youtube.com/@madnasdk)
+- 📺 Sometimes i upload videos on Youtube [https://youtube.com/@madnasdk](youtube.com/@madnasdk)
 
 - 💬 Ask me about **Mobile/Web apps, API Rest and development of 2D games for any platform**
 
