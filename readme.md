@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Moore about Flutter**
 
-- ⚡ Every day i try to get better this project [Madnolia](madnolia.app)
+- ⚡ Every day i try to get better this project <a href="madnolia.app">Madnolia</a>
 
 - 📺 Sometimes i upload videos on Youtube [youtube.com/@madnasdk](youtube.com/@madnasdk)
 
